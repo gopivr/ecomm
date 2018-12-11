@@ -1,2 +1,0 @@
-# ecomm
-ecomm-application
